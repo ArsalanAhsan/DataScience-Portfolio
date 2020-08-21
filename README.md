@@ -1,5 +1,4 @@
 # DataScience-Portfolio
-Data Science Portfolio
 
 # [Project 1: Exploratory Data Analysis on IRIS Dataset: Project Overview](https://github.com/ArsalanAhsan/Data-Analysis-Projects/tree/master/Exploratory-Data-Analysis%20on%20IRIS%20dataset)
 * Use kaggle dataset
@@ -22,3 +21,7 @@ Exploratory data analysis on sales dataset from the prespective of business.
 * Use kaggle dataset
 * Apply pandas function for Data cleaning.
 * Apply Matplotlib and Seaborn function for Visualization
+
+# [Project 5: Covid-19 Data Analyis using Power BI](https://github.com/ArsalanAhsan/Data-Analysis-Projects/tree/master/Covid-19%20Data%20Analysis)
+* clean and transform the dataset to make it more valuable.
+* Establish relatioship between all the tables.
